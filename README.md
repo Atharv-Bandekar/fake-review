@@ -1,3 +1,5 @@
+In notebooks folder, we preprocess datasets
+
 create virtual environment in you project's directory:
 python -m venv venv
 

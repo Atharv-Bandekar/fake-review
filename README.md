@@ -10,7 +10,11 @@ git pull origin main
 
 install all the required packages:
 
-pip install uv
+pip install uv -> install uv
 
-uv sync
+uv sync -> to synce all the dependancies
+
+uv add <package_name> -> to add new package
+
+uv run scriptname -> to run scripts without activating virtual environment
 

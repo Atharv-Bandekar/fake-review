@@ -9,6 +9,8 @@ venv\Scripts\activate
 git pull origin main
 
 install all the required packages:
+
 pip install uv
+
 uv sync
 

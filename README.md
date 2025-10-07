@@ -6,5 +6,9 @@ python -m venv venv
 activate it:
 venv\Scripts\activate
 
+git pull origin main
+
 install all the required packages:
-pip install -r requirements.txt
+pip install uv
+uv sync
+
